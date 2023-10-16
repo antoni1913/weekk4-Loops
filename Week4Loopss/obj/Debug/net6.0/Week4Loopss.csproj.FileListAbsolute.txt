@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\bin\Debug\net6.0\Week4Loopss.exe
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\bin\Debug\net6.0\Week4Loopss.deps.json
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\bin\Debug\net6.0\Week4Loopss.runtimeconfig.json
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\bin\Debug\net6.0\Week4Loopss.dll
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\bin\Debug\net6.0\Week4Loopss.pdb
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.AssemblyInfo.cs
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.dll
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\refint\Week4Loopss.dll
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.pdb
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\Week4Loopss.genruntimeconfig.cache
+C:\Users\user\source\repos\Week4Loopss\Week4Loopss\obj\Debug\net6.0\ref\Week4Loopss.dll

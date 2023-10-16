@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.AssemblyInfo.cs
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\bin\Debug\net6.0\Week4WileLoop.exe
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\bin\Debug\net6.0\Week4WileLoop.deps.json
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\bin\Debug\net6.0\Week4WileLoop.runtimeconfig.json
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\bin\Debug\net6.0\Week4WileLoop.dll
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\bin\Debug\net6.0\Week4WileLoop.pdb
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.dll
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\refint\Week4WileLoop.dll
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.pdb
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\Week4WileLoop.genruntimeconfig.cache
+C:\Users\user\source\repos\Week4Loopss\Week4WileLoop\obj\Debug\net6.0\ref\Week4WileLoop.dll
